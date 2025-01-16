@@ -1,2 +1,2 @@
 # probstats-notes
-Uploading the notes i make on probability and statistics
+Uploading the notes I make on probability and statistics. Use it for your learning.
